@@ -130,6 +130,41 @@ Access and manage alumni features (events, messaging, profile updates, etc.).
 ![WhatsApp Image 2025-04-06 at 14 44 29_8bf1144b](https://github.com/user-attachments/assets/f02f5ee6-30b1-4619-a7bf-11e9fdd2c61d)
 ![WhatsApp Image 2025-04-06 at 14 44 29_15e98a34](https://github.com/user-attachments/assets/96d17bff-746a-41b5-9360-5dd6a6b629d4)
 
+###📸 Description Of Screenshots Of Project
+####🖼️ 1. Login & Register Interface
+
+Description:
+This is the landing page of the Alumni Website. Users are greeted with a welcome message and provided with fields to either log in or begin the registration process using their email and password.
+
+####🖼️ 2. Join as Alumni or Student
+
+Description:
+After clicking Join, users are prompted to select their role — either as an Alumni or Student. This bifurcation helps in displaying customized interfaces and storing different data accordingly.
+
+####🖼️ 3. Alumni Registration Form
+
+Description:
+The Alumni Registration form collects detailed information such as full name, graduation year, degree program, current job title, employer, and location. This data helps in building a robust alumni database.
+
+####🖼️ 4. Home Page (After Login)
+
+Description:
+This is the main navigation hub for the logged-in user. The sidebar allows switching between key sections: Home, Search, Post, My Profile, and AI Assistance. The main section displays the latest post.
+
+####🖼️ 5. My Profile Page
+
+Description:
+The profile viewer page showcases the user's details including name, email, graduation year, degree, department, current job, and location. It functions as a digital identity card for the alumni.
+
+####🖼️ 6. Post Management Section
+
+Description:
+Users can create, edit, and delete posts. It supports content input and displays a list of all posts made by the user. This feature helps alumni or students share updates, job posts, or announcements.
+
+####🖼️ 7. AI Assistance Page
+
+Description:
+An experimental AI-powered assistant chat window designed to help users get quick information or support while navigating the website. Placeholder interface currently shown for chat feature integration.
 
 
 
@@ -141,7 +176,9 @@ Access and manage alumni features (events, messaging, profile updates, etc.).
 
 
 ## 👨‍💻 Contributors
-
+Sunny Kushwaha
+Mansi Mankar
+Jawahar Lal Singh
 
 
 ## 📄 License
