@@ -120,6 +120,23 @@ Access and manage alumni features (events, messaging, profile updates, etc.).
 
 ## 📷 Screenshots
 
+![WhatsApp Image 2025-04-06 at 14 43 04_3657a928](https://github.com/user-attachments/assets/a3b0f06c-cc96-4503-94b9-607fc8d614bb)
+![WhatsApp Image 2025-04-06 at 14 43 17_f2339648](https://github.com/user-attachments/assets/bdcec370-66ea-4ff0-9a7a-02144cae189d)
+![WhatsApp Image 2025-04-06 at 14 43 34_dfdafd56](https://github.com/user-attachments/assets/2c1ad2ff-169e-4502-8915-79e80a28b884)
+![WhatsApp Image 2025-04-06 at 14 43 51_cfc7f243](https://github.com/user-attachments/assets/6d4ad54f-2db2-4816-ab20-689c5a27a6d1)
+![WhatsApp Image 2025-04-06 at 14 43 58_aacb3cea](https://github.com/user-attachments/assets/f7633880-5d9e-4b0a-b82f-4097b558ceca)
+![WhatsApp Image 2025-04-06 at 14 44 09_5be82480](https://github.com/user-attachments/assets/323b4788-ce78-47b3-97f6-93692ba97519)
+![WhatsApp Image 2025-04-06 at 14 44 16_2142b654](https://github.com/user-attachments/assets/c9f251b0-94f7-4299-b791-1818d8244496)
+![WhatsApp Image 2025-04-06 at 14 44 29_8bf1144b](https://github.com/user-attachments/assets/f02f5ee6-30b1-4619-a7bf-11e9fdd2c61d)
+![WhatsApp Image 2025-04-06 at 14 44 29_15e98a34](https://github.com/user-attachments/assets/96d17bff-746a-41b5-9360-5dd6a6b629d4)
+
+
+
+
+
+
+
+
 
 
 
