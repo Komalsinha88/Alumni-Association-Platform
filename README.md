@@ -8,7 +8,6 @@ A web-based platform built using Python and Streamlit to connect alumni with the
 
 - [About](#about)
 - [Features](#features)
-- [Tech Stack](#tech-stack)
 - [Tools Used](#tools-used)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -36,17 +35,6 @@ The Alumni Association Platform serves as a digital bridge between the alumni an
 - 👥 Alumni directory
 - 📊 Admin dashboard with real-time updates
 
----
-
-## 💻 Tech Stack
-
-| Layer        | Technologies Used                         |
-|--------------|--------------------------------------------|
-| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap, Streamlit |
-| **Backend**  | Python, Streamlit                          |
-| **Database** | MongoDB / CSV (based on implementation)   |
-| **Version Control** | Git & GitHub                        |
-| **IDE**      | Visual Studio Code                        |
 
 ---
 
@@ -177,7 +165,9 @@ An experimental AI-powered assistant chat window designed to help users get quic
 
 ## 👨‍💻 Contributors
 Sunny Kushwaha
+
 Mansi Mankar
+
 Jawahar Lal Singh
 
 
