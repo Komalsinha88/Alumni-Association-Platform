@@ -1,6 +1,6 @@
 # 🎓 Alumni Association Platform for the University/Institute
 
-A web-based platform built using Python and Streamlit to connect alumni with their alma mater and foster an engaging alumni network. This project enables alumni to register, view events, connect with fellow graduates, and stay updated with institutional news and updates.
+A web-based platform built using Python and Streamlit to connect alumni with their alma mater and foster an engaging alumni network. This responsive platform works seamlessly on both mobile and laptop devices. It enables alumni to register, view events, connect with fellow graduates, and stay updated with institutional news and updates.
 
 ---
 
