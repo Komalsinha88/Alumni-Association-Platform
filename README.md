@@ -63,11 +63,6 @@ An open-source framework that allows building interactive web apps with Python, 
 - Real-time updates as code changes
 - Supports libraries like Matplotlib, Pandas, Plotly
 
-### 🧠 OpenCV *(if used)*
-An open-source computer vision library that supports image processing and computer vision tasks.
-
-> ⚠️ *Only include this if your project uses image handling or face verification features.*
-
 ### 🧾 Git
 Git is a distributed version control system used for tracking changes in code and collaborating with other developers.
 
@@ -98,13 +93,20 @@ A lightweight yet powerful source code editor with support for multiple programm
    ```bash
    git clone https://github.com/your-username/alumni-association-platform.git
    cd alumni-association-platform
+   ```
 2. **Create a virtual environment**
+ ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
+ ```
 3. **Install dependencies**
+   ```bash
    pip install -r requirements.txt
+   ```bash
 4. **Run the app**
+   ```bash
    streamlit run app.py
+   ```
 
 
 ## 🚀 Usage
